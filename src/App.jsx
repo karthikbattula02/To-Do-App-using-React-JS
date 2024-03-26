@@ -22,6 +22,10 @@ function App() {
       setToDo([...toDo, newEntry])
       setNewTask('');
     }
+    else
+    {
+    alert("Enter a task to add")
+    }
   }
 
   // Delete task    
