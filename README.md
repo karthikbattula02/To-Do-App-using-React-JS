@@ -1,17 +1,8 @@
-# LGMVIP-Web-Task-1
-To Do App using ReactJS
-#### Visit my [site](https://karthikbattula02.github.io/LGMVIP-Web-Task-1/)
-<br/>
-This is a simple To-Do application built using React.js. <br/>It allows users to create, update, and delete tasks, helping them stay organized and manage their tasks efficiently.
+# React + Vite
 
-### Features
-> Create new tasks with a title and description<br/>
-> Mark tasks as completed<br/>
-> Edit existing tasks<br/>
-> Delete tasks<br/>
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-### Technologies Used
-> React.js<br/>
-> HTML<br/>
-> CSS<br/>
-> JavaScript<br/>
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
